@@ -31,5 +31,14 @@ How to ping me:
 [<img src="./icons/skype.svg" alt="" width="32px" height="32px">](https://join.skype.com/invite/CE3zgNpn32Hf)
 
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ProkoptsovD>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ProkoptsovD's GitHub stats](https://github-readme-stats.vercel.app/api?username=<ProkoptsovD>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
