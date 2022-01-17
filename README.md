@@ -1,25 +1,19 @@
 ![](banner.jpg)
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
 
-Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years MIDDLE FRONTEND DEVELOPER** at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either.
+Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years middle FRONTEND developer**, at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either.
 
-<<<<<<< HEAD
-My current 🧰 **TOOLBOX** which is obviously pint-sized
-
-<!-- <img src="./icons/html5.svg" alt="" width="100px" height="100px"> <img src="./icons/css3.svg" alt="" width="100px" height="100px"> <img src="./icons/sass.svg" alt="" width="100px" height="100px">            <img src="./icons/vscode.svg" alt="" width="100px" height="100px"> <img src="./icons/github.svg" alt="" width="80px" height="80px"> <img src="./icons/photoshop.svg" alt="" width="100px" height="100px"> -->
-
-![css](icons/css3.svg)
-![html](icons/html5.svg)
-![sass](icons/sass.svg)
-![github](icons/github.svg)
-![photoshop](icons/photoshop.svg)
-![vscode](vscode.svg)
-=======
-
-> > > > > > > submain
 
 ---
+### <p align="center">My pint-sized 🧰 **TOOLBOX**</p>
+
+<p align="center"><img src="./icons/html5.svg" alt="" width="79px" height="100px"> <img src="./icons/css3.svg" alt="" width="100px" height="100px"> <img src="./icons/sass.svg" alt="" width="100px" height="100px"> <img src="./icons/vscode.svg" alt="" width="100px" height="100px"> <img src="./icons/github.svg" alt="" width="95px" height="95px"> <img src="./icons/photoshop.svg" alt="" width="100px" height="100px"></p>
+
+
+---
+### <p align="center">What I'm about to start mastering :brain:</p>
+<p align="center"><img src="./icons/javascript.svg" alt="" width="100px" height="100px"> <img src="./icons/nodejs.svg" alt="" width="100px" height="100px"> <img src="./icons/react.svg" alt="" width="100px" height="100px"></p>
 
 What else... well, I repair my car all the time :upside_down_face: and fill free to contact me, if you wanna leave a feedback or wanna help me gain some experience.
 How to reach me:
