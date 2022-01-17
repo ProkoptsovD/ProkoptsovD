@@ -17,7 +17,9 @@ Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND
 
 
 ---
-What else... well, I repair my car all the time! Chinese vehicle is real headache:upside_down_face:  And fill free to contact me, if you wanna leave a feedback or help me gain some experience.
+What else... well, I repair my car all the time! *Chinese vehicle* is real headache:upside_down_face:  And fill free to contact me, if you wanna leave a feedback or help me gain some experience.
+
+
 How to ping me:
 
 
@@ -32,13 +34,8 @@ How to ping me:
 
 
 ---
-
 ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ProkoptsovD>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ProkoptsovD's GitHub stats](https://github-readme-stats.vercel.app/api?username=<ProkoptsovD>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProkoptsovD&hide=java,css&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats) [![ProkoptsovD's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProkoptsovD&show_icons=true&theme=noctis_minimus&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
