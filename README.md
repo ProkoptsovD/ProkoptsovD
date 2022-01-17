@@ -5,13 +5,15 @@
 Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years MIDDLE FRONTEND DEVELOPER** at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either.
 
 My current toolbox which is obviously pint-sized:
-![](html5.svg)
+
+<p vertical-align="middle"><img src="./icons/html5.svg" alt="" width="100px" height="100px"> <img src="./icons/css3.svg" alt="" width="100px" height="100px"> <img src="./icons/sass.svg" alt="" width="100px" height="100px">            <img src="./icons/vscode.svg" alt="" width="100px" height="100px"> <img src="./icons/github.svg" alt="" width="80px" height="80px"> <img src="./icons/photoshop.svg" alt="" width="100px" height="100px"></p>
+<!-- ![](html5.svg)
 ![](css3.svg)
 ![](sass.svg)
 
 ![](vscode.svg)
 ![](github.svg)
-![](photoshop.svg) "(just a bit to create a bunner)"
+![](photoshop.svg) "(just a bit to create a bunner)" -->
 
 ---
 
