@@ -4,6 +4,7 @@
 
 Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years MIDDLE FRONTEND DEVELOPER** at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either.
 
+<<<<<<< HEAD
 My current 🧰 **TOOLBOX** which is obviously pint-sized
 
 <!-- <img src="./icons/html5.svg" alt="" width="100px" height="100px"> <img src="./icons/css3.svg" alt="" width="100px" height="100px"> <img src="./icons/sass.svg" alt="" width="100px" height="100px">            <img src="./icons/vscode.svg" alt="" width="100px" height="100px"> <img src="./icons/github.svg" alt="" width="80px" height="80px"> <img src="./icons/photoshop.svg" alt="" width="100px" height="100px"> -->
@@ -14,6 +15,9 @@ My current 🧰 **TOOLBOX** which is obviously pint-sized
 ![github](icons/github.svg)
 ![photoshop](icons/photoshop.svg)
 ![vscode](vscode.svg)
+=======
+
+> > > > > > > submain
 
 ---
 
