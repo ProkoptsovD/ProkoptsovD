@@ -1,8 +1,8 @@
 ![](banner.jpg)
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
+# <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!</p>
 
-Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years middle FRONTEND developer**, at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either.
+Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years middle FRONTEND developer**, at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff, so I listen to astronomical podcasts all the time, watch videos about software development on YouTube either, read books when have spare time.
 
 
 ---
@@ -13,37 +13,17 @@ Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND
 
 ---
 ### <p align="center">What I'm about to start mastering :brain:</p>
-<p align="center"><img src="./icons/javascript.svg" alt="" width="100px" height="100px"> <img src="./icons/nodejs.svg" alt="" width="100px" height="100px"> <img src="./icons/react.svg" alt="" width="100px" height="100px"></p>
+<p align="center"><img src="./icons/javascript.svg" alt="" width="100px" height="100px"> <img src="./icons/nodejs.svg" alt="" width="100px" height="100px"> <img src="./icons/react.svg" alt="" width="90px" height="100px"></p>
 
-What else... well, I repair my car all the time :upside_down_face: and fill free to contact me, if you wanna leave a feedback or wanna help me gain some experience.
-How to reach me:
 
-<!-- [atlassian]: https://atlassian.com
-[react]: http://reactjs.org
-[firebase]: https://firebase.google.com
-[styled]: https://styled-components.com
-[jamstack]: https://jamstack.org
-[next]: https://nextjs.org
-[typescript]: https://www.typescriptlang.org
-[website]: https://bradgarropy.com
-[twitter]: https://twitter.com/bradgarropy
-[youtube]: https://youtube.com/bradgarropy
-[twitch]: https://twitch.tv/bradgarropy
-[newsletter]: https://bradgarropy.com/newsletter
-[instagram]: https://instagram.com/bradgarropy
-[linkedin]: https://linkedin.com/in/bradgarropy
-[npm]: https://npmjs.com/~bradgarropy -->
-<!--
-**ProkoptsovD/ProkoptsovD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+What else... well, I repair my car all the time :upside_down_face: and fill free to contact me, if you wanna leave a feedback or help me gain some experience.
+How to ping me:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [<img src="./icons/linckedin.svg" alt="" width="50px" height="50px">](https://pages.github.com/) -->
+[<img src="./icons/instagram.svg" alt="" width="50px" height="50px">](https://www.instagram.com/dmitry.prokoptsov/)
+[<img src="./icons/telegram-alt.svg" alt="" width="50px" height="50px">](https://t.me/dima_prokoptsov)
+[<img src="./icons/whatsapp.svg" alt="" width="45px" height="50px">](https://wa.me/+380663486409)
+[<img src="./icons/gmail.svg" alt="" width="50px" height="50px">](mailto:dimka.prokoptsov@gmail.com)
+
