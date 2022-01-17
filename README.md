@@ -1,13 +1,15 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
 ![](banner.jpg)
 
-Hope you've had your coffee already. If not, I'll keep this short. My name is Dmytro Prokoptsov and I'm HUSBAND, FATHER and MIDDLE FRONTEND DEVELOPER in 3 years. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either. 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
+
+Hope you've had your coffee already. If not, I'll keep this short. I'm HUSBAND, FATHER and MIDDLE FRONTEND DEVELOPER in 3 years. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either. 
 As for tech skills I've mastered:
 -HTML;
 -CSS;
 -SASS.
 
 What else... well, I repair my car all the time :) and fill free to contact me, if you wanna leave a feedback or wanna help me gain some experience.
+How to reach me:
 <!--
 **ProkoptsovD/ProkoptsovD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
