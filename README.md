@@ -1,19 +1,22 @@
 ![](banner.jpg)
 
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
----
-Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years MIDDLE FRONTEND DEVELOPER** at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either. 
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!
+
+Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years MIDDLE FRONTEND DEVELOPER** at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff: listen to astronomical podcasts all the time, watch videos about software development on YouTube either.
 
 My current toolbox which is obviously pint-sized:
-*HTML;
-*CSS;
-*SASS.
----
+![](html5.svg)
+![](css3.svg)
+![](sass.svg)
 
+![](vscode.svg)
+![](github.svg)
+![](photoshop.svg) "(just a bit to create a bunner)"
+
+---
 
 What else... well, I repair my car all the time :upside_down_face: and fill free to contact me, if you wanna leave a feedback or wanna help me gain some experience.
 How to reach me:
-
 
 <!-- [atlassian]: https://atlassian.com
 [react]: http://reactjs.org
