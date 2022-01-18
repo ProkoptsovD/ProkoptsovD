@@ -20,7 +20,7 @@ Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND
 What else... well, I repair my car all the time! *Chinese vehicle* is real headache:upside_down_face:  And fill free to contact me, if you wanna leave a feedback or help me gain some experience.
 
 
-How to ping me:
+How to reach me out:
 
 
 [<img src="./icons/linckedin.svg" alt="" width="32px" height="32px">](https://linkedin.com/)
