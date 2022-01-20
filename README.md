@@ -31,6 +31,7 @@ How to reach me out:
 [<img src="./icons/facebook.svg" alt="" width="32px" height="32px">](https://www.facebook.com/dima.prokoptsov.9)
 [<img src="./icons/slack.svg" alt="" width="32px" height="32px">](https://htmlcsson46.slack.com/team/U02KMURG9V1)
 [<img src="./icons/skype.svg" alt="" width="32px" height="32px">](https://join.skype.com/invite/CE3zgNpn32Hf)
+[<img src="./icons/codewars.svg" alt="" width="32px" height="32px">](https://www.codewars.com/users/ProkoptsovD/)
 
 
 ---
