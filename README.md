@@ -23,7 +23,7 @@ What else... well, I repair my car all the time! *Chinese vehicle* is real heada
 How to reach me out:
 
 
-[<img src="./icons/linckedin.svg" alt="" width="32px" height="32px">](https://linkedin.com/)
+[<img src="./icons/linckedin.svg" alt="" width="32px" height="32px">](www.linkedin.com/in/prokoptsovd)
 [<img src="./icons/instagram.svg" alt="" width="32px" height="32px">](https://www.instagram.com/dmitry.prokoptsov/)
 [<img src="./icons/gmail.svg" alt="" width="32px" height="32px">](mailto:dimka.prokoptsov@gmail.com)
 [<img src="./icons/whatsapp.svg" alt="" width="27px" height="32px">](https://wa.me/+380663486409)
