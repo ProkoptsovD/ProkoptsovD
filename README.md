@@ -1,6 +1,6 @@
 ![](banner.jpg)
 
-# <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dmytro Prokoptsov!</p>
+# <p align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I am Dmytro Prokoptsov!</p>
 
 Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND**, **FATHER** and **in 3 years middle FRONTEND developer**, at least will do my best to reach this goal. Though I've just started my journey, I am deeply in love with all that magic JS, CSS and HTML can do. Also I fond of leanrnig some new stuff, so I listen to astronomical podcasts all the time, watch videos about software development on YouTube as well, read books when have some spare moments.
 
