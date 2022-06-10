@@ -8,12 +8,12 @@ Hope you've had your coffee already. If not, I'll keep this short. I'm **HUSBAND
 ---
 ### <p align="center">My pint-sized TOOLBOX 🧰</p>
 
-<p align="center"><img src="./icons/html5.svg" alt="" width="79px" height="100px"> <img src="./icons/css3.svg" alt="" width="100px" height="100px"><img src="./icons/javascript.svg" alt="" width="100px" height="100px"><img src="./icons/sass.svg" alt="" width="100px" height="100px"> <img src="./icons/vscode.svg" alt="" width="100px" height="100px"> <img src="./icons/github.svg" alt="" width="95px" height="95px"> <img src="./icons/photoshop.svg" alt="" width="100px" height="100px"></p>
+<p align="center"><img src="./icons/html5.svg" alt="" width="79px" height="100px"> <img src="./icons/css3.svg" alt="" width="100px" height="100px"><img src="./icons/javascript.svg" alt="" width="100px" height="100px"><img src="./icons/sass.svg" alt="" width="100px" height="100px"> <img src="./icons/vscode.svg" alt="" width="100px" height="100px"> <img src="./icons/github.svg" alt="" width="95px" height="95px"> <img src="./icons/react.svg" alt="" width="90px" height="100px"> <img src="./icons/photoshop.svg" alt="" width="100px" height="100px"></p>
 
 
 ---
 ### <p align="center">What I'm about to start learning :brain:</p>
-<p align="center"><img src="./icons/nodejs.svg" alt="" width="100px" height="100px"> <img src="./icons/react.svg" alt="" width="90px" height="100px"></p>
+<p align="center"><img src="./icons/nodejs.svg" alt="" width="100px" height="100px"></p>
 
 
 ---
